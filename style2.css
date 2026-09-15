@@ -1,0 +1,17 @@
+
+
+
+				a {
+					color:black;
+				}
+
+				div#principal {
+					margin: 30px;
+					overflow: hidden !important;
+					width: 500px;
+					height: 500px;
+					padding: 50px;
+					border: 1px #FFC107 solid;
+					border-radius: 319px;
+					box-shadow: #d98080 0px 0px 438px 20px;
+				}
